@@ -4,11 +4,11 @@ Years ago, while teaching sailing on Lake Washington, I dreamed of a sailboat th
 
 Skills I took away from this project:
 
-* System architecture design based on power and mechanical load requirements
-* Selecting servos, bearings, and materials according to load specifications
-* Designing and 3D Printing parts for a custom sensor
-* Integrating multiple sensors into a subsystem used for control of an airfoil
-* Writing firmware for communication between I2C and SPI devices and microprocessors
+* System architecture design based on power and mechanical load requirements.
+* Selecting servos, bearings, and materials according to load specifications.
+* Designing and 3D Printing parts for a custom sensor.
+* Integrating multiple sensors into a subsystem used for control of an airfoil.
+* Writing firmware for communication between I2C and SPI devices and microprocessors.
 
 > ![Full Assembly](https://github.com/cacton77/Autonomous-Sailboat/blob/main/autonomous_sailboat_assembly.stl)
 
