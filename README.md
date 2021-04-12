@@ -18,7 +18,7 @@ Skills I took away from this project:
 
 > ![Arduino Code](https://github.com/cacton77/Autonomous-Sailboat/blob/main/Full_Sail/Full_Sail.ino)
 
-> ![Demo Day Video](https://www.youtube.com/watch?v=Hydo_2GYRXk&feature=youtu.be)
+> [Demo Day Video](https://www.youtube.com/watch?v=Hydo_2GYRXk&feature=youtu.be)
 
 ## Full Assembly
 
